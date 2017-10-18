@@ -1,0 +1,28 @@
+http://opengameart.org/content/single-key-press-sounds
+
+
+These sounds are based on following two sound recordings:
+
+http://freesound.org/people/eklee/sounds/158058/
+
+http://freesound.org/people/eklee/sounds/158057/
+
+Extracted for http://opengameart.org/forumtopic/key-press-sounds
+
+Available as flac 48000 Hz and wav 44100 Hz.
+
+I recommend Audacity (graphical) and SoX (command line) for audio conversion, editing and mixing.
+
+Preview generated with https://github.com/qubodup/ogatools
+Attribution Instructions: 
+Copyright 2012 eklee http://freesound.org/people/eklee/ | Copyright 2012 qubodup http://freesound.org/people/qubodup/ extraction of single sounds | License: CC Attribution 3.0 http://creativecommons.org/licenses/by/3.0/
+
+
+
+Author: 
+eklee
+(Submitted by qubodup)
+Sunday, November 11, 2012 - 10:41
+
+
+http://creativecommons.org/licenses/by/3.0/

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{0C4DA636-4573-73A2-58E2-237DB7E81ECE}|Unity" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Camera/CameraController.cs" Line="169" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/tk2dUtil.cs" line="74" column="10" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/NGUI/Scripts/Internal/UIDrawCall.cs" line="485" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dClippedSprite.cs" line="103" column="10" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSprite.cs" line="21" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSprite.cs" line="87" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteThumbnailCache.cs" line="68" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteThumbnailCache.cs" line="145" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dStaticSpriteBatcher.cs" line="319" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dStaticSpriteBatcher.cs" line="950" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Fonts/tk2dTextMesh.cs" line="548" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dTiledSprite.cs" line="98" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteCollectionBuilder.cs" line="1640" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dTiledSprite.cs" line="219" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dBaseSprite.cs" line="715" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dClippedSprite.cs" line="174" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs" line="137" column="28" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs" line="134" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs" line="147" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs" line="155" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs" line="186" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteThumbnailCache.cs" line="102" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteThumbnailCache.cs" line="36" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteThumbnailCache.cs" line="43" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dBaseSprite.cs" line="615" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteCollectionBuilder.cs" line="2268" column="57" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Editor/Sprites/tk2dSpriteCollectionBuilder.cs" line="2267" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2dTileMap/Editor/tk2dTileMapSceneGUI.cs" line="639" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2dTileMap/Code/tk2dTileMap.cs" line="645" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2dTileMap/Code/tk2dTileMapBuilderUtil.cs" line="173" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2dTileMap/Code/tk2dTileMap.cs" line="603" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2dTileMap/Code/tk2dTileMap.cs" line="700" column="1" />
+      <Breakpoint enabled="false" file="/Users/BYELIK/Documents/git/Unity/CBKSnapshot/_release 2017/CityBuildingKit/Assets/TK2DROOT/tk2d/Code/tk2dUtil.cs" line="67" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
